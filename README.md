@@ -15,6 +15,7 @@ Module 8 and 9
       ii) No correlation
       iii) Strong negative correlation
       iv) Weak negative correlation
+   
    Answer:       ii) No correlation
 
    
@@ -24,6 +25,7 @@ Module 8 and 9
       ii) To predict continuous outcomes
       iii) To classify data points into clusters
       iv) To analyze variance in a dataset
+   
    Answer:       iii) To classify data points into clusters
    
    b) In simple linear regression, how many independent variables are used to predict the dependent variable?
@@ -31,6 +33,7 @@ Module 8 and 9
       ii) Two
       iii) Three
       iv) It depends on the dataset
+   
    Answer:       iv) It depends on the dataset
    
 
@@ -40,6 +43,7 @@ Module 8 and 9
       ii) Maximizing the sum of squared errors
       iii) Minimizing the sum of absolute errors
       iv) Maximizing the sum of absolute errors
+   
    Answer:       i) Minimizing the sum of squared errors
 
    b) What does the intercept term represent in the OLS regression equation?
@@ -47,6 +51,7 @@ Module 8 and 9
       ii) The value of the dependent variable when all independent variables are zero
       iii) The average value of the independent variable
       iv) The variance of the residuals
+   
    Answer:      ii) The value of the dependent variable when all independent variables are zero
 
 7. Simple Linear Regression:
@@ -55,6 +60,7 @@ Module 8 and 9
       ii) It is the variable being predicted from
       iii) It is the variable being controlled
       iv) It is not used in simple linear regression
+   
    Answer:      ii) It is the variable being predicted from
    
    b) How is the best-fit line determined in simple linear regression?
@@ -62,6 +68,7 @@ Module 8 and 9
       ii) By maximizing the sum of squared residuals
       iii) By minimizing the correlation coefficient
       iv) By maximizing the correlation coefficient
+   
    Answer:      ii) By maximizing the sum of squared residuals
 
 9. Random Forests:
@@ -70,6 +77,7 @@ Module 8 and 9
       ii) They rely on boosting techniques
       iii) They are an ensemble learning method
       iv) They are a type of unsupervised learning algorithm
+   
    Answer:      i) They consist of a single decision tree
    
    b) How does a random forest model prevent overfitting?
@@ -77,6 +85,7 @@ Module 8 and 9
       ii) By averaging predictions from multiple decision trees
       iii) By increasing the complexity of each decision tree
       iv) By decreasing the number of decision trees in the forest
+   
    Answer:      ii) By averaging predictions from multiple decision trees
 
 11. Model Diagnostics:
@@ -85,6 +94,7 @@ Module 8 and 9
       ii) To identify outliers and patterns in the residuals
       iii) To determine the correlation coefficient
       iv) To assess multicollinearity among independent variables
+    
     Answer:      ii) To identify outliers and patterns in the residuals
     
    b) In regression analysis, what does it mean if the residuals are normally distributed?
@@ -92,6 +102,7 @@ Module 8 and 9
       ii) The model is unbiased
       iii) The model is overfit
       iv) The model is underfit
+      
       Answer:      ii) The model is unbiased
 
 13. Logistic Regression:
@@ -100,6 +111,7 @@ Module 8 and 9
       ii) Categorical
       iii) Ordinal
       iv) Nominal
+    
     Answer:      ii) Categorical
     
    b) How is the logistic function used in logistic regression?
@@ -107,6 +119,7 @@ Module 8 and 9
       ii) To calculate mean squared error
       iii) To calculate the slope of the regression line
       iv) To calculate the intercept of the regression line
+      
     Answer:      i) To calculate probabilities of class membership
 
 15. K Nearest Neighbors (KNN):
@@ -115,6 +128,7 @@ Module 8 and 9
       ii) The number of nearest neighbors to consider
       iii) The number of features
       iv) The number of iterations
+    
     Answer:      ii) The number of nearest neighbors to consider
     
    b) How does KNN classify a new data point?
@@ -122,6 +136,7 @@ Module 8 and 9
       ii) By assigning it to the most common class among its nearest neighbors
       iii) By using gradient descent
       iv) By minimizing the Euclidean distance between data points
+      
     Answer:      i) By calculating the average of its nearest neighbors
 
 17. K-Means Clustering:
@@ -130,6 +145,7 @@ Module 8 and 9
       ii) To maximize inter-cluster similarity and minimize intra-cluster similarity
       iii) To minimize the number of clusters
       iv) To maximize the number of clusters
+    
     Answer:       ii) To maximize inter-cluster similarity and minimize intra-cluster similarity
     
    b) How is the initial centroid position chosen in K-Means clustering?
@@ -137,6 +153,7 @@ Module 8 and 9
       ii) Based on the mean of all data points
       iii) Based on the median of all data points
       iv) Based on the mode of all data points
+      
     Answer:      iv) Based on the mode of all data points
 
 19. PCA (Principal Component Analysis):
@@ -145,6 +162,7 @@ Module 8 and 9
        ii) To increase the dimensionality of the data
        iii) To classify data points into clusters
        iv) To maximize the variance in the data
+    
     Answer:       iii) To classify data points into clusters
     
     b) How are principal components determined in PCA?
@@ -152,6 +170,7 @@ Module 8 and 9
        ii) By minimizing the covariance between variables
        iii) By using gradient descent
        iv) By randomly selecting variables
+    
     Answer:       iii) By using gradient descent
 
 Module-14
@@ -162,6 +181,7 @@ Module-14
       ii) To increase the size of feature maps
       iii) To speed up the training process
       iv) To decrease the number of parameters in the network
+   
    Answer:      iv) To decrease the number of parameters in the network
    
    b) Which type of padding adds zeros around the input image or feature map?
@@ -169,6 +189,7 @@ Module-14
       ii) Valid padding
       iii) Full padding
       iv) Zero padding
+   
    Answer:      iv) Zero padding
 
 3. Strided Convolutions:
@@ -177,6 +198,7 @@ Module-14
       ii) The number of filters/kernels
       iii) The step size of the filter/kernel
       iv) The activation function used
+   
    Answer:      i) The size of the filter/kernel
    
    b) How does increasing the stride in a convolutional layer affect the output size?
@@ -184,6 +206,7 @@ Module-14
       ii) Decreases the output size
       iii) Has no effect on the output size
       iv) Depends on the padding used
+   
    Answer:      iv) Depends on the padding used
 
 5. Convolutions Over Volume:
@@ -192,6 +215,7 @@ Module-14
       ii) The number of filters
       iii) The number of input channels
       iv) The number of output channels
+   
    Answer:      iii) The number of input channels
    
    b) How are convolutions applied over volume in a CNN?
@@ -199,6 +223,7 @@ Module-14
       ii) By applying 2D filters/kernels independently to each channel
       iii) By summing the convolutions across channels
       iv) By using pooling layers
+   
    Answer:      i) By using 3D filters/kernels
 
 7. One Layer of a Convolutional Network:
@@ -207,6 +232,7 @@ Module-14
       ii) To introduce non-linearity
       iii) To reduce the dimensionality of the input
       iv) To increase the interpretability of the model
+   
    Answer:      ii) To introduce non-linearity
    
    b) What are the learnable parameters in a convolutional layer?
@@ -214,6 +240,7 @@ Module-14
       ii) Activation function parameters
       iii) Input data
       iv) Output feature maps
+   
    Answer:      ii) Activation function parameters
 
 9. Simple Convolutional Network Example:
