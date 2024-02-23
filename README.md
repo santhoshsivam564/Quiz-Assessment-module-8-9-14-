@@ -7,6 +7,7 @@ Module 8 and 9
       ii) -0.8
       iii) 0
       iv) 0.6
+   
    Answer:       ii) -0.8
    
    b) If the correlation coefficient between two variables is -0.9, what does this indicate about their relationship?
